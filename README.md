@@ -20,8 +20,8 @@ A **Python GUI application** to track personal expenses, built using **Tkinter**
 
 ### 1. Clone the Repository  
 
-git clone https://github.com/SamruddhiPote/expense-tracker.git
-cd expense-tracker
+- git clone https://github.com/SamruddhiPote/expense-tracker.git
+- cd expense-tracker
 ### 2. Install Dependencies
 
 Make sure you have Python 3.7+ installed. Then install required packages:
